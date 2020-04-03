@@ -1,4 +1,1 @@
 Gg
-hoge
-hoge
-hoge
